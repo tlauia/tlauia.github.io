@@ -135,8 +135,9 @@ li.active a:visited, li a.active, li span.active, #index ul.section li.active a:
     color: #000;
     font-size: 16px;
     line-height: 1.5;
-font-family: 'Red Hat Text', sans-serif;    width: 580px;
-    margin-left: 20px; /*remove?*/
+    font-family: 'Red Hat Text', sans-serif;
+    width: 95%!important;
+    margin-left: 14px;
     margin-bottom: 50px;
     margin-top: 0px;
     /* line-height: 1.3em; */
