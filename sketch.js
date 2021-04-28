@@ -31,7 +31,7 @@ function setup() {
     // shaders require WEBGL mode to work
     createCanvas(windowWidth, windowHeight, WEBGL);
     //noStroke();
-    background(224, 218, 204);
+    //background(211);
 
     // initialize the createGraphics layers
     shaderTexture = createGraphics(400, 400, WEBGL);
